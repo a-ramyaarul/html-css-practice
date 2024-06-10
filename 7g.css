@@ -1,0 +1,15 @@
+.search-bar{
+ border-color: black;
+  }
+  .title{
+    color: gray;
+  }
+  .text{
+    color: gray;
+  }
+  .button{
+    font: white;
+    background-color: blue;
+    border-radius: 5px;
+    border-color: black;
+  }

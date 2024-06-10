@@ -1,0 +1,42 @@
+.main-container{
+  width:1000px;
+  background-color: rgb(177, 186, 186);
+  border:2px;
+  border-color: black;
+}
+.first-box, .second-box, .third-box{
+  margin-left: 25px;
+  display: inline-block;
+}
+.first-image, .second-image, .third-image{
+  width:300px;
+  height:300px;
+  margin-top: 25px;
+  line-height: 3px;
+}
+.first-heading, .second-heading, .third-heading{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 3px;
+}
+.first-sub, .second-sub, .third-sub{
+  color: brown;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 3px;
+}
+.first-button, .second-button, .third-button{
+  background-color: blue;
+  border-color: rgb(72, 70, 68);
+  color: aliceblue;
+  font-size:12px;
+  padding-top:20px;
+  padding-bottom: 20px;
+  padding-left:20px;
+  padding-right:20px;
+  line-height:3px;
+  margin-bottom:25px;
+  border-radius:3px;
+}
